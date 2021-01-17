@@ -1,2 +1,2 @@
 # pnmicons
-pnm iconlarınun reposu
+repository for pnm icons
